@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Flavours() {
+function About() {
   const [selectedFlavour, setSelectedFlavour] = useState('coconut');
 
   function handleChange(event) {
@@ -9,7 +9,7 @@ function Flavours() {
 
   return (
     <div id="flavours" className="page-break pad1">
-      <h2>Ice Cream Flavours</h2>
+      <h2>About US</h2>
       <label>
         Pick your favorite ice cream flavour:
         <select value={selectedFlavour} onChange={handleChange}>
@@ -24,4 +24,4 @@ function Flavours() {
   );
 }
 
-export default Flavours;
+export default About;

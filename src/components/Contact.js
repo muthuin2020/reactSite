@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export default function Shops() {
+export default function Contact() {
 
     const [list, setList] = useState(['Janetta\'s Gelataria', 'Dairy Queen', 'Luca\'s Gelato']);
     const [item, setItem] = useState('');
@@ -18,12 +18,12 @@ export default function Shops() {
 
     return (
         <div id="shops" className="page-break pad1">
-            <h2>Ice Cream Shops</h2>
+            <h2>Contact US</h2>
             <p>Use this as a place to note down your favourite places to get ice cream:</p>
             <ul>
                 {list.map(listItem => <li key={listItem}>{listItem}</li>)}
             </ul>
-            
+
             <form onSubmit={handleSubmit}>
                 <label>Add a place:</label>
                 <input value={item} onChange={handleChange} />

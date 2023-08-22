@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
-import Flavours from './components/Flavours';
-import Shops from './components/Shops';
+import About from './components/About';
+import Contact from './components/Contact';
 import Gallery from './components/Gallery';
 
 function App() {
@@ -9,11 +9,11 @@ function App() {
     <div className="App">
       <Navbar />
       <header>
-        <h1>Welcome to my Ice Cream React Site</h1>
+        <h1>Victoriya tech</h1>
       </header>
       <Gallery />
-      <Flavours />
-      <Shops />
+      <About />
+      <Contact />
       <Navbar />
     </div>
   );
