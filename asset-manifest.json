@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactSite/static/css/main.3d2e94d0.chunk.css",
-    "main.js": "/reactSite/static/js/main.fbbdb0e1.chunk.js",
-    "main.js.map": "/reactSite/static/js/main.fbbdb0e1.chunk.js.map",
+    "main.js": "/reactSite/static/js/main.7e512109.chunk.js",
+    "main.js.map": "/reactSite/static/js/main.7e512109.chunk.js.map",
     "runtime-main.js": "/reactSite/static/js/runtime-main.b4c0effa.js",
     "runtime-main.js.map": "/reactSite/static/js/runtime-main.b4c0effa.js.map",
     "static/js/2.46cf6007.chunk.js": "/reactSite/static/js/2.46cf6007.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.2e44dc0d.chunk.js.map": "/reactSite/static/js/3.2e44dc0d.chunk.js.map",
     "index.html": "/reactSite/index.html",
     "static/css/main.3d2e94d0.chunk.css.map": "/reactSite/static/css/main.3d2e94d0.chunk.css.map",
-    "static/js/2.46cf6007.chunk.js.LICENSE.txt": "/reactSite/static/js/2.46cf6007.chunk.js.LICENSE.txt"
+    "static/js/2.46cf6007.chunk.js.LICENSE.txt": "/reactSite/static/js/2.46cf6007.chunk.js.LICENSE.txt",
+    "static/media/training.e0f291a9.png": "/reactSite/static/media/training.e0f291a9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b4c0effa.js",
     "static/js/2.46cf6007.chunk.js",
     "static/css/main.3d2e94d0.chunk.css",
-    "static/js/main.fbbdb0e1.chunk.js"
+    "static/js/main.7e512109.chunk.js"
   ]
 }
